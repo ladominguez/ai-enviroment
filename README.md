@@ -36,5 +36,3 @@ conda activate ai
 
 pip install -r requirements.txt
 ```
-# ai-enviroment
-# ai-enviroment
