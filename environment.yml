@@ -1,0 +1,45 @@
+name: ai
+
+channels:
+  - conda-forge
+
+dependencies:
+  # Python
+  - python=3.12
+  - pip
+
+  # Deep Learning
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cuda-version=13.0
+
+  # Scientific Computing
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - numba
+
+  # Data Formats
+  - h5py
+  - xarray
+  - netcdf4
+
+  # Jupyter
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
+
+  # Seismology
+  - obspy
+  - pygmt
+
+  # Utilities
+  - tqdm
+  - requests
+  - pillow
+  - rich
+
+

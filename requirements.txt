@@ -1,0 +1,15 @@
+tensorflow
+keras
+
+transformers
+datasets
+accelerate
+
+lightning
+tensorboard
+
+diffusers
+timm
+einops
+opencv-python
+albumentations
